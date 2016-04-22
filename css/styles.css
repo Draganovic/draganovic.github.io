@@ -1,0 +1,51 @@
+ #title1 span{
+  background-color:rgba(200, 200, 200, 0.4);
+  text-align: center;
+  font-size: 40px
+}
+
+#home span{
+  margin:0 100px 0 60px;
+  background-color:rgba(200, 200, 200, 0.4);
+  font-size: 40px;
+}
+
+.kittens {
+  height: 300px;
+  width: 400px;
+  border: 15px solid;
+  -webkit-filter: grayscale(1);
+  filter: grayscale(1);
+}
+
+body {
+  background: url(http://www.celebwallpix.com/wp-content/uploads/2015/10/Brick-wall-and-wood-floor-wallpaper.jpg);
+  background-size: cover;
+  text-align: center;
+}
+
+h1 span {
+  background-color:rgba(200, 200, 200, 0.4);
+  font-size: 25px
+}
+
+h3 span {
+  background-color:rgba(200, 200, 200, 0.4);
+}
+
+p span {
+  background-color:rgba(200, 200, 200, 0.6);
+}
+
+.content {
+  display: inline-block;
+}
+
+#post-date span {
+  background-color:rgba(200, 200, 200, 0.4);
+}
+
+#card {
+  float: right;
+  margin: 10px
+}
